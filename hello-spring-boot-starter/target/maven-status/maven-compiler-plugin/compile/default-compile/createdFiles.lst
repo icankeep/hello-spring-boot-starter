@@ -1,0 +1,5 @@
+org/example/service/impl/HelloServiceImpl.class
+org/example/HelloAutoConfiguration.class
+org/example/HelloProperties.class
+META-INF/spring-configuration-metadata.json
+org/example/service/HelloService.class
